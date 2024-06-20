@@ -1,1 +1,1 @@
-this is helpful for all drivers.
+The Drowsiness Detection project employs Python and computer vision to monitor a driver's facial features. Using a pre-trained model, it detects signs of drowsiness, such as closed eyes,issuing alerts to enhance road safety.
